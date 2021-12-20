@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003543372641",
+    "project_id": "fernandomobile-35583",
+    "storage_bucket": "fernandomobile-35583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003543372641:android:6dc51f2e993c22da6cdb20",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003543372641-cide87ncjg1blagv1g2d42phu7ertb22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYujZI7LCTkUw-XQ1Mbbto7nqK3tnQtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003543372641-cide87ncjg1blagv1g2d42phu7ertb22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
